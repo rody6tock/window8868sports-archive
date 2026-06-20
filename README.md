@@ -1,2 +1,14 @@
 # window8868sports-archive
-HTML page archive and documentation
+
+静态页面归档仓库
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 文件列表
+
+- README：仓库说明
+- HTML：页面发布文件
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
